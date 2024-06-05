@@ -12,4 +12,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="#" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/Hm9cx-Sl9KxRFO6rEzXDiM-CFEUIew58QztaBmro1GcgVaVHaYuzohuU0HLoy2kI-g" alt="ladder" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </p>
+<p align="left"> <a href="#" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/Hm9cx-Sl9KxRFO6rEzXDiM-CFEUIew58QztaBmro1GcgVaVHaYuzohuU0HLoy2kI-g" alt="ladder" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </p>
